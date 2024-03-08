@@ -1,0 +1,12 @@
+.avatar-btn {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    top: 60px; /* Distância do topo da tela */
+    right: 10px; /* Distância da direita da tela */
+}
